@@ -16,6 +16,7 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.15"
+    "@tailwindcss/vite": "^4.0.15",
+    "notion-client": "^7.3.0"
   }
 }
